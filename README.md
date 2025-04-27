@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @mhh-hazrati8068
-- 👀 I’m interested in web-developing
-- 🌱 I’m currently learning nexstjs
-- I have some experience in react js and phaser 3....
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : M.hazrati8068.mh@gmail.com
 
 <!---
